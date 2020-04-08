@@ -1,17 +1,17 @@
 {
     "links": {
-        "wiki": "https://ftb.gamepedia.com/FTB_Ultimate_Reloaded"
+        "wiki": "https://ftb.gamepedia.com/Direwolf20_1.12"
     },
     "servers": [
         {
             "name": "Crafter's Land",
             "website": "https://www.craftersland.net/",
-            "hostname": "ulr.craftersland.net"
+            "hostname": "dw.craftersland.net"
         },
         {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
-            "hostname": "ultimate.shadownode.ca"
+            "hostname": "direwolf.shadownode.ca"
         }
     ]
 }

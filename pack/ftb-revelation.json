@@ -4,6 +4,11 @@
 		"support": "https://github.com/FTBTeam/FTB-Revelation-2/issues"
 	},
 	"servers": [
+        {
+            "name": "Crafter's Land",
+            "website": "https://www.craftersland.net/",
+            "hostname": "rev.craftersland.net"
+        },
 		{
 			"name": "ShadowNode",
 			"website": "https://www.shadownode.ca",

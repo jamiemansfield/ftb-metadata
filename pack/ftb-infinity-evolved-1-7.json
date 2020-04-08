@@ -4,6 +4,11 @@
     },
     "servers": [
         {
+            "name": "Crafter's Land",
+            "website": "https://www.craftersland.net/",
+            "hostname": "inf.craftersland.net"
+        },
+        {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "infinity.shadownode.ca"

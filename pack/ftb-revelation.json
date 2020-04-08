@@ -6,7 +6,7 @@
 	"servers": [
         {
             "name": "Crafter's Land",
-            "website": "https://www.craftersland.net/",
+            "website": "https://www.craftersland.net",
             "hostname": "rev.craftersland.net"
         },
 		{

@@ -1,4 +1,7 @@
 {
+    "overrides": {
+        "synopsis": "All-purpose modpack with optimal FPS, server performance and stability."
+    },
 	"links": {
 		"wiki": "https://ftb.gamepedia.com/FTB_Revelation",
 		"support": "https://github.com/FTBTeam/FTB-Revelation-2/issues"

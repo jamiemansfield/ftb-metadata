@@ -1,0 +1,13 @@
+{
+    "links": {
+        "wiki": "https://ftb.gamepedia.com/FTB_Continuum",
+        "support": "https://github.com/FTBTeam/FTB-Continuum/issues"
+    },
+    "servers": [
+        {
+            "name": "Crafter's Land",
+            "website": "https://www.craftersland.net",
+            "hostname": "cont.craftersland.net"
+        }
+    ]
+}

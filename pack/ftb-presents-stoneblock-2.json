@@ -9,6 +9,11 @@
             "hostname": "sb2.baconetworks.com"
         },
         {
+            "name": "Complex FTB",
+            "website": "https://www.mc-complex.com/forums/ftb/",
+            "hostname": "sb2.mc-complex.com"
+        },
+        {
             "name": "Crafter's Land",
             "website": "https://www.craftersland.net",
             "hostname": "sb2.craftersland.net"

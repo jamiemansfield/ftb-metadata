@@ -4,6 +4,11 @@
     },
     "servers": [
         {
+            "name": "Bacon Networks",
+            "website": "https://www.baconetworks.com",
+            "hostname": "sb2.baconetworks.com"
+        },
+        {
             "name": "Crafter's Land",
             "website": "https://www.craftersland.net",
             "hostname": "sb2.craftersland.net"

@@ -2,12 +2,5 @@
     "links": {
         "wiki": "https://ftb.gamepedia.com/FTB_Sky_Odyssey",
         "support": "https://github.com/FTBTeam/FTB-Sky-Odyssey/issues"
-    },
-    "servers": [
-        {
-            "name": "Complex FTB",
-            "website": "https://www.mc-complex.com/forums/ftb/",
-            "hostname": "so.mc-complex.com"
-        }
-    ]
+    }
 }

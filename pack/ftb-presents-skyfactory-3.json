@@ -7,11 +7,6 @@
     },
     "servers": [
         {
-            "name": "Complex FTB",
-            "website": "https://www.mc-complex.com/forums/ftb/",
-            "hostname": "sf3.mc-complex.com"
-        },
-        {
             "name": "Crafter's Land",
             "website": "https://www.craftersland.net",
             "hostname": "sf3.craftersland.net"

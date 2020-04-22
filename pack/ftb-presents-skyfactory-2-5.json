@@ -1,5 +1,12 @@
 {
     "links": {
         "wiki": "https://ftb.gamepedia.com/SkyFactory_2.5"
-    }
+    },
+    "servers": [
+        {
+            "name": "Nytro Networks",
+            "website": "https://nytro.co",
+            "hostname": "sf25.nytro.co"
+        }
+    ]
 }

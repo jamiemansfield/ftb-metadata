@@ -14,6 +14,11 @@
             "hostname": "sb2.craftersland.net"
         },
         {
+            "name": "Nytro Networks",
+            "website": "https://nytro.co",
+            "hostname": "stoneblock2.nytro.co"
+        },
+        {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "stoneblock2.shadownode.ca"

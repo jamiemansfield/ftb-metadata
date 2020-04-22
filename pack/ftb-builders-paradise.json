@@ -2,5 +2,12 @@
     "links": {
         "wiki": "https://ftb.gamepedia.com/FTB_Builders_Paradise",
         "support": "https://github.com/FTBTeam/FTB-Builders-Paradise/issues"
-    }
+    },
+    "servers": [
+        {
+            "name": "Nytro Networks",
+            "website": "https://nytro.co",
+            "hostname": "bp.nytro.co"
+        }
+    ]
 }

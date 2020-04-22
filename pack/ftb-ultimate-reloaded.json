@@ -10,6 +10,11 @@
             "hostname": "ulr.craftersland.net"
         },
         {
+            "name": "Nytro Networks",
+            "website": "https://nytro.co",
+            "hostname": "ultimate.nytro.co"
+        },
+        {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "ultimate.shadownode.ca"

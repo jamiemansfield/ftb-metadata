@@ -1,6 +1,7 @@
 {
     "links": {
-        "wiki": "https://ftb.gamepedia.com/FTB_Ultimate_Reloaded"
+        "wiki": "https://ftb.gamepedia.com/FTB_Ultimate_Reloaded",
+        "support": "https://github.com/FTBTeam/FTB-Ultimate-Reloaded/issues"
     },
     "servers": [
         {

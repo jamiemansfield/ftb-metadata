@@ -1,11 +1,5 @@
 {
     "advisories": {
-        "current": [
-            {
-                "severity": "info",
-                "message": "Older builds of FTB Omnia include builds of MineTogether that crash if you disagree to CreeperHost's Privacy Policy."
-            }
-        ],
         "1-0-0": [
             {
                 "severity": "warn",

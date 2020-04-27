@@ -1,4 +1,19 @@
 {
+    "advisories": {
+        "current": [
+            {
+                "severity": "info",
+                "message": "Older builds of FTB Omnia include builds of MineTogether that crash if you disagree to CreeperHost's Privacy Policy."
+            }
+        ],
+        "1-0-0": [
+            {
+                "severity": "warn",
+                "message": "This build of FTB Omnia contains a build of MineTogether that crashes if you disagree to CreeperHost's Privacy Policy. DO NOT DOWNLOAD/INSTALL if you don't wish to accept this. Please consider installing a newer version.",
+                "url": "https://github.com/FTBTeam/FTB-Omnia/issues/2"
+            }
+        ]
+    },
     "links": {
         "support": "https://github.com/FTBTeam/FTB-Omnia/issues"
     },

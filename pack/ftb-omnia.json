@@ -3,7 +3,7 @@
         "1-0-0": [
             {
                 "severity": "warn",
-                "message": "This build of FTB Omnia contains a build of MineTogether that crashes if you disagree to CreeperHost's Privacy Policy. DO NOT DOWNLOAD/INSTALL if you don't wish to accept this. Please consider installing a newer version.",
+                "message": "This build contains a version of MineTogether that prevents players from playing if they decline the MineTogether Privacy Policy. This is fixed in newer versions.",
                 "url": "https://github.com/FTBTeam/FTB-Omnia/issues/2"
             }
         ]

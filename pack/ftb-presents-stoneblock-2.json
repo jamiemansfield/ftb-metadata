@@ -14,6 +14,11 @@
             "hostname": "sb2.craftersland.net"
         },
         {
+            "name": "Creation Reborn",
+            "website": "https://creationreborn.net",
+            "hostname": "sb2.creationreborn.net"
+        },
+        {
             "name": "Nytro Networks",
             "website": "https://nytro.co",
             "hostname": "stoneblock2.nytro.co"

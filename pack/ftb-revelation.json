@@ -15,6 +15,11 @@
             "website": "https://www.craftersland.net",
             "hostname": "rev.craftersland.net"
         },
+        {
+            "name": "Golden Sands",
+            "website": "http://www.goldensandsmc.com",
+            "hostname": "rev.goldensandsmc.com"
+        },
 		{
 			"name": "ShadowNode",
 			"website": "https://www.shadownode.ca",

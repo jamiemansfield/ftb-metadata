@@ -9,6 +9,11 @@
             "hostname": "inf.craftersland.net"
         },
         {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "inf.dirtcraft.gg"
+        },
+        {
             "name": "Golden Sands",
             "website": "http://www.goldensandsmc.com",
             "hostname": "play.goldensandsmc.com"

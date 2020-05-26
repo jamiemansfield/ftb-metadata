@@ -5,6 +5,11 @@
     },
     "servers": [
         {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "ody.dirtcraft.gg"
+        },
+        {
             "name": "Nytro Networks",
             "website": "https://nytro.co",
             "hostname": "odyssey.nytro.co"

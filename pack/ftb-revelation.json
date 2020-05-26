@@ -20,6 +20,11 @@
             "hostname": "rev.creationreborn.net"
         },
         {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "rev.dirtcraft.gg"
+        },
+        {
             "name": "Golden Sands",
             "website": "http://www.goldensandsmc.com",
             "hostname": "rev.goldensandsmc.com"

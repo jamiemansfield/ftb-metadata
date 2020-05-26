@@ -19,6 +19,11 @@
             "hostname": "sb2.creationreborn.net"
         },
         {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "sb2y.dirtcraft.gg"
+        },
+        {
             "name": "Nytro Networks",
             "website": "https://nytro.co",
             "hostname": "stoneblock2.nytro.co"

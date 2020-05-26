@@ -10,6 +10,11 @@
             "hostname": "ulr.craftersland.net"
         },
         {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "ult.dirtcraft.gg"
+        },
+        {
             "name": "Nytro Networks",
             "website": "https://nytro.co",
             "hostname": "ultimate.nytro.co"

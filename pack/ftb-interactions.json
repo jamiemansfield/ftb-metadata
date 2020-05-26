@@ -1,5 +1,12 @@
 {
     "links": {
         "wiki": "https://ftb.gamepedia.com/FTB_Interactions"
-    }
+    },
+    "servers": [
+        {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "int.dirtcraft.gg"
+        }
+    ]
 }

@@ -8,6 +8,11 @@
             "name": "Crafter's Land",
             "website": "https://www.craftersland.net",
             "hostname": "cont.craftersland.net"
+        },
+        {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "con.dirtcraft.gg"
         }
     ]
 }

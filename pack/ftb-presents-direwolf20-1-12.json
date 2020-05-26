@@ -17,6 +17,11 @@
             "hostname": "dw20.creationreborn.net"
         },
         {
+            "name": "DirtCraft",
+            "website": "dw20://dirtcraft.net/",
+            "hostname": "int.dirtcraft.gg"
+        },
+        {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "direwolf.shadownode.ca"

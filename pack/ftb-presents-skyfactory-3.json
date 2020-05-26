@@ -9,6 +9,11 @@
             "hostname": "sf3.craftersland.net"
         },
         {
+            "name": "DirtCraft",
+            "website": "https://dirtcraft.net/",
+            "hostname": "sf3.dirtcraft.gg"
+        },
+        {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "sf3.shadownode.ca"

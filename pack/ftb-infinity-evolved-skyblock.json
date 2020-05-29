@@ -1,5 +1,12 @@
 {
     "links": {
         "wiki": "https://ftb.gamepedia.com/FTB_Infinity_Evolved_Skyblock"
-    }
+    },
+    "servers": [
+        {
+            "name": "MineYourMind",
+            "website": "https://mineyourmind.net/",
+            "hostname": "infinityskyblock2.mineyourmind.net"
+        }
+    ]
 }

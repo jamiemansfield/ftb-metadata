@@ -7,6 +7,16 @@
             "name": "DirtCraft",
             "website": "https://dirtcraft.net/",
             "hostname": "int.dirtcraft.gg"
+        },
+        {
+            "name": "MineYourMind (1)",
+            "website": "https://mineyourmind.net/",
+            "hostname": "interactions.mineyourmind.net"
+        },
+        {
+            "name": "MineYourMind (2)",
+            "website": "https://mineyourmind.net/",
+            "hostname": "interactions2.mineyourmind.net"
         }
     ]
 }

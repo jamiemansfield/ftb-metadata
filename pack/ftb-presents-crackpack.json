@@ -1,5 +1,12 @@
 {
     "links": {
         "wiki": "https://ftb.gamepedia.com/Crackpack"
-    }
+    },
+    "servers": [
+        {
+            "name": "MineYourMind",
+            "website": "https://mineyourmind.net/",
+            "hostname": "crackpack.mineyourmind.net"
+        }
+    ]
 }

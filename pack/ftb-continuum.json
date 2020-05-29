@@ -13,6 +13,11 @@
             "name": "DirtCraft",
             "website": "https://dirtcraft.net/",
             "hostname": "con.dirtcraft.gg"
+        },
+        {
+            "name": "MineYourMind",
+            "website": "https://mineyourmind.net/",
+            "hostname": "continuum.mineyourmind.net"
         }
     ]
 }

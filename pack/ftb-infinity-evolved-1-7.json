@@ -19,6 +19,16 @@
             "hostname": "play.goldensandsmc.com"
         },
         {
+            "name": "MineYourMind (Normal Mode)",
+            "website": "https://mineyourmind.net/",
+            "hostname": "infinity-normal.mineyourmind.net"
+        },
+        {
+            "name": "MineYourMind (Expert Mode)",
+            "website": "https://mineyourmind.net/",
+            "hostname": "infinity-expert.mineyourmind.net"
+        },
+        {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "infinity.shadownode.ca"

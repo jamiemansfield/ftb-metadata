@@ -7,6 +7,11 @@
             "name": "Crafter's Land",
             "website": "https://www.craftersland.net",
             "hostname": "ftb.craftersland.net"
+        },
+        {
+            "name": "MineYourMind",
+            "website": "https://mineyourmind.net/",
+            "hostname": "direwolf20.mineyourmind.net"
         }
     ]
 }

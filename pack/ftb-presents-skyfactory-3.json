@@ -14,6 +14,16 @@
             "hostname": "sf3.dirtcraft.gg"
         },
         {
+            "name": "MineYourMind (1)",
+            "website": "https://mineyourmind.net/",
+            "hostname": "skyfactorynext.mineyourmind.net"
+        },
+        {
+            "name": "MineYourMind (2)",
+            "website": "https://mineyourmind.net/",
+            "hostname": "skyfactorynext2.mineyourmind.net"
+        },
+        {
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "sf3.shadownode.ca"

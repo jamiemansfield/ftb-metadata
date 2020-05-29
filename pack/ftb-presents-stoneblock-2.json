@@ -24,6 +24,11 @@
             "hostname": "sb2y.dirtcraft.gg"
         },
         {
+            "name": "MineYourMind",
+            "website": "https://mineyourmind.net/",
+            "hostname": "ftbstoneblock.mineyourmind.net"
+        },
+        {
             "name": "Nytro Networks",
             "website": "https://nytro.co",
             "hostname": "stoneblock2.nytro.co"

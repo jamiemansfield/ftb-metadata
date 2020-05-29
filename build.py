@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import json
 import os
 from os import walk
@@ -18,14 +20,17 @@ for changelog in changelogs:
             cl = json.load(changelogR)
 
     try:
-        overrides = cl["changelogs"]
+        overrides = cl["overrides"]["changelogs"]
     except KeyError:
         overrides = {}
 
     with open("changelogs/" + changelog) as rawCl:
         overrides[versionSlug] = rawCl.read()
 
-    cl["changelogs"] = overrides
+    if cl.get("overrides") is None:
+        cl["overrides"] = {}
+
+    cl["overrides"]["changelogs"] = overrides
 
     with open("pack/" + packSlug + ".json", "w+") as changelogW:
         json.dump(cl, changelogW, indent=4)

@@ -1,4 +1,7 @@
 {
+    "overrides": {
+        "synopsis": "Play along with Direwolf20 using the same pack he uses in his SSP YouTube series."
+    },
     "links": {
         "wiki": "https://ftb.gamepedia.com/Direwolf20_(1.7.10)"
     },

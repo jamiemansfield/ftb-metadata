@@ -6,5 +6,11 @@
                 "name": "1.12.2"
             }
         ]
+    },
+    "availability": {
+        "curse": {
+            "id": 384639,
+            "url": "https://www.curseforge.com/minecraft/modpacks/material-energy-5-entity"
+        }
     }
 }

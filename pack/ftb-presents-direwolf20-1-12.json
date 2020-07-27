@@ -22,6 +22,11 @@
             "hostname": "dw20.creationreborn.net"
         },
         {
+            "name": "Direwolf20",
+            "website": "https://www.direwolf20.ca",
+            "hostname": "play.direwolf20.ca"
+        },
+        {
             "name": "DirtCraft",
             "website": "dw20://dirtcraft.net/",
             "hostname": "int.dirtcraft.gg"

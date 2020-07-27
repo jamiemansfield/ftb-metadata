@@ -30,6 +30,11 @@
             "name": "ShadowNode",
             "website": "https://www.shadownode.ca",
             "hostname": "direwolf.shadownode.ca"
+        },
+        {
+            "name": "Direwolf20",
+            "website": "https://www.direwolf20.ca",
+            "hostname": "play.direwolf20.ca"
         }
     ]
 }

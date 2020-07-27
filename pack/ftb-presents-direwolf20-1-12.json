@@ -28,8 +28,8 @@
         },
         {
             "name": "DirtCraft",
-            "website": "dw20://dirtcraft.net/",
-            "hostname": "int.dirtcraft.gg"
+            "website": "https://dirtcraft.net/",
+            "hostname": "dw20.dirtcraft.gg"
         },
         {
             "name": "ShadowNode",
